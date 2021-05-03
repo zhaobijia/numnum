@@ -1,0 +1,775 @@
+fileFormatVersion: 2
+guid: 3df5b77e54f2a904687fd3a97e07fec9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4391924447450494639
+    second: l3-rockandsnow2_0
+  - first:
+      213: 4369804384487246643
+    second: l3-rockandsnow2_1
+  - first:
+      213: -1890160525824980762
+    second: l3-rockandsnow2_2
+  - first:
+      213: -2861703959057203012
+    second: l3-rockandsnow2_3
+  - first:
+      213: 3716010555567392792
+    second: l3-rockandsnow2_4
+  - first:
+      213: -6233704187829196548
+    second: l3-rockandsnow2_5
+  - first:
+      213: 2388205605991906418
+    second: l3-rockandsnow2_6
+  - first:
+      213: -4818303345961627460
+    second: l3-rockandsnow2_7
+  - first:
+      213: -8165738981208339547
+    second: l3-rockandsnow2_8
+  - first:
+      213: -7083592728617525969
+    second: l3-rockandsnow2_9
+  - first:
+      213: -8467175423720387793
+    second: l3-rockandsnow2_10
+  - first:
+      213: 8689792999468219312
+    second: l3-rockandsnow2_11
+  - first:
+      213: 9064185846744172869
+    second: l3-rockandsnow2_12
+  - first:
+      213: -4881258199470052938
+    second: l3-rockandsnow2_13
+  - first:
+      213: -4191028449952956629
+    second: l3-rockandsnow2_14
+  - first:
+      213: -1415941178197977810
+    second: l3-rockandsnow2_15
+  - first:
+      213: 6557845884689882743
+    second: l3-rockandsnow2_16
+  - first:
+      213: 5090836007875256671
+    second: l3-rockandsnow2_17
+  - first:
+      213: -9009363859023249641
+    second: l3-rockandsnow2_18
+  - first:
+      213: -5300755893454338468
+    second: l3-rockandsnow2_19
+  - first:
+      213: -8667413667507266950
+    second: l3-rockandsnow2_20
+  - first:
+      213: 2539393831613942783
+    second: l3-rockandsnow2_21
+  - first:
+      213: 3467997579020880284
+    second: l3-rockandsnow2_22
+  - first:
+      213: 9064947216150127798
+    second: l3-rockandsnow2_23
+  - first:
+      213: 404669374131339594
+    second: l3-rockandsnow2_24
+  - first:
+      213: -4227746671762185026
+    second: l3-rockandsnow2_25
+  - first:
+      213: -3779616398649392049
+    second: l3-rockandsnow2_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: l3-rockandsnow2_0
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1705
+        width: 219
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991cd4708a045e9439590e6f2595aa60
+      internalID: -4391924447450494639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_1
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1728
+        width: 181
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c64ed9c191392429f6ecf8cbcfaa64
+      internalID: 4369804384487246643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_2
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1780
+        width: 224
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab1a968242f1b4e94bc4f4d34b618f
+      internalID: -1890160525824980762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_3
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1514
+        width: 216
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624034412e5bff45883c39741ccf1a7
+      internalID: -2861703959057203012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_4
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1486
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe048a950c07414f9257e1bf14048ff
+      internalID: 3716010555567392792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_5
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1468
+        width: 182
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c4d49f245f8840bd13c1161679287
+      internalID: -6233704187829196548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_6
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1151
+        width: 331
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408db710bd1245c4797d1c3f39960322
+      internalID: 2388205605991906418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_7
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1220
+        width: 205
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e11b87ed2354e54fa1c4253edc372b5
+      internalID: -4818303345961627460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_8
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 1169
+        width: 202
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc945ff695723834e844ab05e37950e3
+      internalID: -8165738981208339547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_9
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 863
+        width: 294
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe73f3ecd523ff4bbe287607158b77f
+      internalID: -7083592728617525969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_10
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 857
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab136da9fd98124e9723ee6e4829187
+      internalID: -8467175423720387793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_11
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 696
+        width: 158
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f4b307d768119449b79229977a3b40
+      internalID: 8689792999468219312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_12
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 895
+        width: 161
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c7c960528d4054cb0beff6e8510e69
+      internalID: 9064185846744172869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_13
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 586
+        width: 106
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b1fc9cc12ab641aeed40e6fea3b3f
+      internalID: -4881258199470052938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_14
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 647
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64127ada7202cef4da4402e46ab06786
+      internalID: -4191028449952956629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1699
+        width: 251
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699e5b44f3c0f94aa721071335f48fd
+      internalID: -1415941178197977810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1705
+        width: 392
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f421aa67f5fa947886c5b533d4c57d
+      internalID: 6557845884689882743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1621
+        width: 444
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8b286586a71040823851d0ea8f1ec
+      internalID: 5090836007875256671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1174
+        width: 335
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdc8b1865683d4a8514042a0d49770
+      internalID: -9009363859023249641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_19
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1151
+        width: 473
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f99edd935aabe48b8c717a101c29a7
+      internalID: -5300755893454338468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_20
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1120
+        width: 367
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b1a1e507462ee4a98d73098ddbaf4c
+      internalID: -8667413667507266950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 601
+        width: 398
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2837c800ebf24a43bf9eb0617556d51
+      internalID: 2539393831613942783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_22
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 624
+        width: 369
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77958433cbb1a74ea461976c605b2b7
+      internalID: 3467997579020880284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 615
+        width: 467
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3d427d9bc9be446be4c0b3ac7cca49
+      internalID: 9064947216150127798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 50
+        width: 420
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca249bf44896143a798f780a12407c
+      internalID: 404669374131339594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_25
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 56
+        width: 415
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8968ca4e880f45b2054e276ee64c4
+      internalID: -4227746671762185026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-rockandsnow2_26
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 62
+        width: 464
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb67d1f26bea9c41aba2388f559cbbf
+      internalID: -3779616398649392049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
